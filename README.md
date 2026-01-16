@@ -1,6 +1,6 @@
 # Sleep Health & Lifestyle Prediction
 
-## Group Members
+## Contributors
 - Joaquin Hidalgo  
 - Guadalupe Molinari  
 - Matheus Gomes  
@@ -38,7 +38,3 @@ The dataset is downloaded programmatically using the Kaggle API and loaded into 
 - **Decision Tree Classifier**
 
 ---
-
-## My Contribution
-- Performed **data cleaning and feature engineering** to improve model performance and interpretability  
-- Implemented **K-Means clustering** to identify natural lifestyle and health patterns associated with sleep disorders
